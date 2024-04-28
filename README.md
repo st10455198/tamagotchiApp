@@ -5,6 +5,8 @@ I created a Tamagotchi Application, It Allows users to interact with their virtu
 
 
 NB:IN ORDER TO RUN THE APPLICATION YOU NEED TO USE THE CODE BELOW BECAUSE THE CODE CANNOT BE DISPLAYED ON THE FOLDERS!!
+
+
 C:\Users\RC_student_2024\Documents\tamagotchi\app\src\main\java\com\example\tamagotchi\MainActivity.kt
 C:\Users\RC_student_2024\Documents\tamagotchi\app\src\main\java\com\example\tamagotchi\MainActivity2.kt
 C:\Users\RC_student_2024\Documents\tamagotchi\app\src\main\java\com\example\tamagotchi\MainActivity3.kt
